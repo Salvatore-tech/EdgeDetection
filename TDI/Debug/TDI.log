@@ -1,0 +1,22 @@
+﻿  TDI.cpp
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(74,27): warning C4244: '=': conversione da 'C_Matrix::ElementT' a 'int'. Possibile perdita di dati.
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(112,20): warning C4244: '=': conversione da 'C_Matrix::ElementT' a 'int'. Possibile perdita di dati.
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(113,20): warning C4244: '=': conversione da 'C_Matrix::ElementT' a 'int'. Possibile perdita di dati.
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(103,35): warning C4101: 'max': variabile locale senza riferimenti
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(103,48): warning C4101: 'new_low': variabile locale senza riferimenti
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(103,21): warning C4101: 'absmax': variabile locale senza riferimenti
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(102,6): warning C4101: 'ad': variabile locale senza riferimenti
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(103,40): warning C4101: 'new_hi': variabile locale senza riferimenti
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(103,12): warning C4101: 'absdiff': variabile locale senza riferimenti
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(103,29): warning C4101: 'diff': variabile locale senza riferimenti
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(137,18): warning C4101: 'row': variabile locale senza riferimenti
+C:\Users\Salva\OneDrive\Documenti\practicaTDI\Source\TDI.cpp(137,23): warning C4101: 'col': variabile locale senza riferimenti
+IMtdi_VS2019_Debug.lib(C_Arguments.obj) : warning LNK4099: impossibile trovare il PDB 'IMtdi.pdb' con 'IMtdi_VS2019_Debug.lib(C_Arguments.obj)' o in 'C:\Users\Salva\OneDrive\Documenti\practicaTDI\Debug\IMtdi.pdb'; oggetto collegato senza informazioni di debug
+IMtdi_VS2019_Debug.lib(C_File.obj) : warning LNK4099: impossibile trovare il PDB 'IMtdi.pdb' con 'IMtdi_VS2019_Debug.lib(C_File.obj)' o in 'C:\Users\Salva\OneDrive\Documenti\practicaTDI\Debug\IMtdi.pdb'; oggetto collegato senza informazioni di debug
+IMtdi_VS2019_Debug.lib(C_General.obj) : warning LNK4099: impossibile trovare il PDB 'IMtdi.pdb' con 'IMtdi_VS2019_Debug.lib(C_General.obj)' o in 'C:\Users\Salva\OneDrive\Documenti\practicaTDI\Debug\IMtdi.pdb'; oggetto collegato senza informazioni di debug
+IMtdi_VS2019_Debug.lib(C_Image.obj) : warning LNK4099: impossibile trovare il PDB 'IMtdi.pdb' con 'IMtdi_VS2019_Debug.lib(C_Image.obj)' o in 'C:\Users\Salva\OneDrive\Documenti\practicaTDI\Debug\IMtdi.pdb'; oggetto collegato senza informazioni di debug
+IMtdi_VS2019_Debug.lib(C_Matrix.obj) : warning LNK4099: impossibile trovare il PDB 'IMtdi.pdb' con 'IMtdi_VS2019_Debug.lib(C_Matrix.obj)' o in 'C:\Users\Salva\OneDrive\Documenti\practicaTDI\Debug\IMtdi.pdb'; oggetto collegato senza informazioni di debug
+IMtdi_VS2019_Debug.lib(C_Memory.obj) : warning LNK4099: impossibile trovare il PDB 'IMtdi.pdb' con 'IMtdi_VS2019_Debug.lib(C_Memory.obj)' o in 'C:\Users\Salva\OneDrive\Documenti\practicaTDI\Debug\IMtdi.pdb'; oggetto collegato senza informazioni di debug
+IMtdi_VS2019_Debug.lib(C_String.obj) : warning LNK4099: impossibile trovare il PDB 'IMtdi.pdb' con 'IMtdi_VS2019_Debug.lib(C_String.obj)' o in 'C:\Users\Salva\OneDrive\Documenti\practicaTDI\Debug\IMtdi.pdb'; oggetto collegato senza informazioni di debug
+IMtdi_VS2019_Debug.lib(C_Trace.obj) : warning LNK4099: impossibile trovare il PDB 'IMtdi.pdb' con 'IMtdi_VS2019_Debug.lib(C_Trace.obj)' o in 'C:\Users\Salva\OneDrive\Documenti\practicaTDI\Debug\IMtdi.pdb'; oggetto collegato senza informazioni di debug
+  TDI.vcxproj -> C:\Users\Salva\OneDrive\Documenti\practicaTDI\Debug\TDI.exe

@@ -1,0 +1,42 @@
+{
+  "FileVersion": 2,
+  "Id": "6093c47f-f7c1-49aa-a674-32689011c1e5",
+  "Items": [
+    {
+      "Id": "2eaa3e08-2f40-433b-99d3-8e04b1e15c26",
+      "Command": "\"C:\\Users\\Salva\\OneDrive\\Desktop\\Img_TDI\\BMP\\elefanti.bmp\""
+    },
+    {
+      "Id": "9538c2f4-9e4d-47be-98eb-7b2293cc7a92",
+      "Command": "\"C:\\Users\\Salva\\OneDrive\\Desktop\\Img_TDI\\BMP\\margherita.bmp\""
+    },
+    {
+      "Id": "1a52f2f3-b997-47e6-b578-b2ef83557ee5",
+      "Command": "\"C:\\Users\\Salva\\OneDrive\\Desktop\\Img_TDI\\BMP\\fiore_viola.bmp\""
+    },
+    {
+      "Id": "b689f3b9-b90d-4259-a182-7e21570defd0",
+      "Command": "\"chess_gimp.bmp\""
+    },
+    {
+      "Id": "029bafc6-2ba5-4b00-8029-6092d76a2a59",
+      "Command": "\"Hercules.bmp\""
+    },
+    {
+      "Id": "e3fcfe30-a148-4db4-aca8-417067e894cb",
+      "Command": "\"sample.bmp\""
+    },
+    {
+      "Id": "9d2471be-1a51-4bed-8251-c895dfa54bd6",
+      "Command": "\"Aguadulce_Gris.bmp\""
+    },
+    {
+      "Id": "d71a70c0-6f8d-423a-9fc2-4a7c3458e97c",
+      "Command": "\"Ajedrez_Gris.bmp\""
+    },
+    {
+      "Id": "bdd863c5-55b6-4860-bc09-57c2a44b6266",
+      "Command": "\"Alumina.bmp\""
+    }
+  ]
+}
